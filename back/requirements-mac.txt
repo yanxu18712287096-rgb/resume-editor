@@ -1,0 +1,4 @@
+# Newer Python versions need current Pydantic wheels; Windows pins stay unchanged.
+fastapi>=0.115,<1
+uvicorn>=0.30.6,<1
+pydantic>=2.12,<3

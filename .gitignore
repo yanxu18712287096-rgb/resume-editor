@@ -1,0 +1,52 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+*.swp
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Uploads
+uploads/
+
+# AtomCode
+.atomcode/
+.atomcode.md
+
+# ClaudeCode
+.claude/
+
+# WorkBuddy
+.workbuddy/
+
+# 前端启动脚本
+
+# 前端启动脚本
+start-frontend.bat
+
+# 后端启动脚本
+back/start.bat
+back/start_server.py
+
+.venv/
+
+# Personal resumes and backups
+*_备份_*.json
+*.pdf
+.env
+.env.*
